@@ -2,6 +2,7 @@
 # or I drop here (backups, node_modules, etc.).
 /*
 !/.gitignore
+!/README.md
 !/cordis.yml
 !/cordis.patch.yml
 !/package.json
