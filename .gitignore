@@ -1,0 +1,8 @@
+# Track only this dsh profile's config files; ignore anything else the app
+# or I drop here (backups, node_modules, etc.).
+/*
+!/.gitignore
+!/cordis.yml
+!/cordis.patch.yml
+!/package.json
+!/pnpm-workspace.yaml
